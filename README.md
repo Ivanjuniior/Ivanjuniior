@@ -1,13 +1,8 @@
 ## Olá, eu sou Ivan Junior !
-- 👋 Hi, I’m @Ivanjuniior
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 <div align="left">
   <a href="https://github.com/Ivanjuniior">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ivanjuniior&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ivanjuniior&layout=compact&langs_count=7&theme=transparent"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Ivanjuniior&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ivanjuniior&layout=compact&langs_count=7&theme=transparent"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="ivanjr-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
