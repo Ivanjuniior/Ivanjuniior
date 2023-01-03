@@ -8,6 +8,9 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ivanjuniior&layout=compact&langs_count=7&theme=graywhite"/>  
 <p align = "center">
  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=ritik307&show_icons=true&locale=en&layout=compact&theme=graywhite&line_height=0" />
+ 
+  ![](https://visitor-badge.glitch.me/badge?page_id=Ivanjuniior/Ivanjuniior)
+ 
 </p> 
 
 </div><h1>Details</h1>
