@@ -24,7 +24,6 @@
   <img align="center" alt="ivanjr-cs" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img align="center" alt="ivanjr-py" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
   <img align="center" alt="ivanjr-c+" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img align="right" alt="card" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/927919109524557837/1057835492936257698/ivanjr_tpv_1200x1080px.png">
 </div>  
   
   ## Find me
