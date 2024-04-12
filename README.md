@@ -1,7 +1,6 @@
 <h1 align="center">WHOAMI?</h1>
-<h3 align="center">ANALISTA DE REDES ✪ | PROJETISTA TELECOM ✪ | PROJETISTA FTTH ✪ | MTCNA ✪</h3>
+<h3 align="center">ANALISTA DE REDES ✪</h3>
 
-[![MasterHead](https://cdn.discordapp.com/attachments/927919109524557837/1058778665992851567/banner_1.png)](https://github.com/Ivanjuniior)
 <div align="center">
   <a href="https://github.com/Ivanjuniior">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Ivanjuniior&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
