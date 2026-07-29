@@ -1,180 +1,309 @@
-<h1 align="center">Olá, eu sou Ivan Jr 👋</h1>
+<div align="center">
 
-<p align="center">
-  <strong>Infrastructure • Automation • Networking • Embedded Systems</strong>
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B132B,25:1C2541,50:3A86FF,75:00B4D8,100:00F5D4&height=260&section=header&text=Ivan%20Jr&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Infrastructure%20%7C%20Automation%20%7C%20Networking%20%7C%20Robotics&descAlignY=58"/>
 
-<p align="center">
-  Apaixonado por tecnologia, automação, redes de computadores, eletrônica e desenvolvimento de software.
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=23&duration=2500&pause=800&center=true&vCenter=true&width=900&lines=Infrastructure+Engineer;Linux+Enthusiast;Docker+%7C+Networking+%7C+Automation;ESP32+Developer;IoT+and+Robotics;Building+Open+Source+Projects"/>
+
+</div>
 
 ---
 
-## 🚀 Sobre mim
+# 👨‍💻 whoami
 
-🎓 Graduando em **Redes de Computadores**
+```bash
+ivan@github:~$ whoami
 
-🎓 Licenciando em **Computação**
+Nome.............. Ivan Jr
 
-🎓 Pós-graduado em **Segurança da Informação e Gestão de TI**
+Graduação......... Redes de Computadores
 
-💻 Atualmente desenvolvendo projetos voltados para:
+Pós-graduação..... Segurança da Informação e Gestão de TI
 
-- Infraestrutura
-- Automação
-- DevOps
-- Docker
-- Linux
-- Redes de Computadores
-- ESP32
-- Arduino
-- Robótica
-- Internet das Coisas (IoT)
-- Inteligência Artificial aplicada
+Licenciatura...... Computação
+
+Especialidades....
+
+✔ Linux
+✔ Docker
+✔ DevOps
+✔ Redes
+✔ Infraestrutura
+✔ Automação
+✔ ESP32
+✔ Arduino
+✔ IoT
+✔ Robótica
+✔ PHP
+✔ Python
+
+Missão............ Desenvolver soluções inteligentes
+                  unindo infraestrutura, software,
+                  hardware e inteligência artificial.
+```
 
 ---
 
-## 💼 Áreas de Interesse
+# 🚀 Sobre mim
+
+Sou apaixonado por tecnologia e por construir soluções que conectam software, infraestrutura e eletrônica.
+
+Meu foco está em projetos que envolvem:
 
 - 🌐 Redes de Computadores
-- 🔐 Segurança da Informação
 - 🐧 Linux
-- ☁️ Cloud Computing
+- ☁️ Infraestrutura
 - 🐳 Docker
 - ⚙️ Automação
+- 🔐 Segurança
 - 🤖 Robótica
 - 📡 IoT
-- 📊 Monitoramento de Infraestrutura
-- 💡 Sistemas Embarcados
+- 💻 Backend
+- 🧠 Inteligência Artificial
 
 ---
 
-## 🛠️ Tecnologias
+# ⚙ Stack
 
-### Linguagens
+## Linguagens
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+<p align="center">
 
-### Infraestrutura
+<img src="https://skillicons.dev/icons?i=php,python,cpp,c,bash"/>
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+</p>
 
-### Redes
+---
 
+## Infraestrutura
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,docker,git,github,nginx,redis,postgres"/>
+
+</p>
+
+---
+
+## Hardware
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=arduino"/>
+
+</p>
+
+Também trabalho com:
+
+- ESP32
+- ESP8266
+- Raspberry Pi
 - MikroTik
-- UniFi
 - Cisco
-- BGP
-- OSPF
+- UniFi
 - VLAN
 - VPN
 - IPv6
 - DNS
-- Firewall
-
-### Sistemas Embarcados
-
-- ESP32
-- ESP8266
-- Arduino
-- Raspberry Pi
-- Sensores
-- Motores
-- Robótica
+- MQTT
 
 ---
 
-## 🚧 Projetos em Desenvolvimento
+# 🛰 Arquitetura
 
-### 🤖 Competition Robot
+```text
+                 Internet
+                     │
+          ┌──────────┴──────────┐
+          │                     │
+     Docker                Cloud Services
+          │                     │
+          └──────────┬──────────┘
+                     │
+              Linux Infrastructure
+                     │
+        ┌────────────┼────────────┐
+        │            │            │
+   NetInspector    IoT      Robotics
+        │            │            │
+      PHP       ESP32        Arduino
+```
 
-Robô seguidor de linha para competições internacionais utilizando:
+---
+
+# 🚧 Projetos
+
+## 🌐 NetInspector
+
+Sistema para gerenciamento de infraestrutura.
+
+✔ Multi Tenant
+
+✔ Community Edition
+
+✔ Cloud Edition
+
+✔ Enterprise Edition
+
+✔ API REST
+
+✔ Plugin SDK
+
+✔ Dashboard
+
+✔ Docker
+
+✔ PostgreSQL
+
+✔ Redis
+
+---
+
+## 🤖 Competition Robot
+
+Robô para competições internacionais.
+
+Tecnologias
 
 - ESP32
-- Sensores infravermelhos
-- Controle PID
+
 - Sensores ToF
+
+- Sensores IR
+
+- PID
+
 - Encoder
+
 - Turbina EDF
+
 - Impressão 3D
 
 ---
 
-### 🌐 NetInspector
+## 🌱 Smart Irrigation
 
-Plataforma moderna para monitoramento e gerenciamento de infraestrutura de redes.
-
-Principais recursos:
-
-- Multi-tenant
-- Docker
-- PHP 8
-- PostgreSQL
-- Redis
-- API REST
-- Plugins
-- Dashboards
-- Monitoramento de equipamentos
-
----
-
-### 🌱 Sistema Inteligente de Irrigação
-
-Projeto de IoT utilizando:
+Sistema inteligente de irrigação utilizando:
 
 - ESP32
+
+- IA
+
+- IoT
+
+- Sensores
+
+- Automação
+
+---
+
+# 📈 GitHub
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ivanjuniior&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ivanjuniior&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Ivanjuniior&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Ivanjuniior&theme=algolia&column=4&no-frame=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ivanjuniior&theme=tokyo-night"/>
+
+</div>
+
+---
+
+# 💻 Atualmente
+
+```text
+[███████████████░░░░░] NetInspector
+
+[████████████░░░░░░░░] Competition Robot
+
+[███████████░░░░░░░░░] Smart Irrigation
+
+[████████████████░░░] Linux Infrastructure
+
+[██████████████░░░░░] Embedded Systems
+```
+
+---
+
+# 🧠 Estudando
+
+- Kubernetes
+
+- Observabilidade
+
 - Inteligência Artificial
-- Sensores ambientais
-- Automação agrícola
+
+- Computer Vision
+
+- DevOps
+
+- Embedded Linux
 
 ---
 
-## 📊 Estatísticas
+# 📫 Contato
 
 <p align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight"/>
+💼 LinkedIn
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight"/>
+🌎 Portfólio
+
+📧 Email
 
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+<div align="center">
 
-<p align="center">
+## ☕ Terminal
 
-<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight"/>
+```bash
+ivan@github:~$ tree
 
-</p>
+.
+├── Infrastructure/
+├── Linux/
+├── Docker/
+├── DevOps/
+├── NetInspector/
+├── ESP32/
+├── Robotics/
+├── IoT/
+├── AI/
+└── OpenSource/
 
----
+9 directories
+```
 
-## 📫 Contato
+### Code • Build • Automate • Learn
 
-- LinkedIn: https://linkedin.com/in/SEU_PERFIL
-- Portfólio: https://SEU_SITE.com
-- E-mail: seuemail@exemplo.com
+⭐ Obrigado por visitar meu perfil.
 
----
+</div>
 
-## 💡 Frase
-
-> "A melhor forma de prever o futuro é construí-lo."
-
----
-
-<p align="center">
-
-⭐ Obrigado por visitar meu perfil!
-
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5D4,30:00B4D8,70:3A86FF,100:0B132B&height=140&section=footer"/>
